@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyadutta02
 - 👀 I’m interested in coding,cooking,painting & exploring new things !
-- 🌱 I’m currently earning Bachelor in Computer Science (1st Year)
+- 🌱 I’m currently earning Bachelor in Science in Computer Science (1st Year)
 - 📫 How to reach me (gmail) - shreyaduttasil@gmail.com
 
 <!---
